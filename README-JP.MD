@@ -118,4 +118,4 @@ pip install opencv-python yt_dlp ultralytics numpy
 
 ---
 **著者:** ルオン・ザ・ギエム  
-**ライセンス:** MIT
+
